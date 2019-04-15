@@ -18,8 +18,8 @@
 
 #include <iostream>
 
+
+
 int main() {
-  test::core::Test test;
-  std::cout << test.get();
   return 0;
 }
